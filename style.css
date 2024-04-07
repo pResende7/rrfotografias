@@ -73,6 +73,7 @@ body {
 }
 @media (max-width: 500px) {
   .icones {
+     margin-top: -20px;
     margin-left: 180px;
     position: relative;
   }
